@@ -30,7 +30,6 @@ The website is containerized using Docker and deployed on AWS EC2 to gain hands-
 ### DevOps & Cloud
 
 * Docker
-* AWS EC2
 * Git
 * GitHub
 
